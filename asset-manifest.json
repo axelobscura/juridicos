@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dashboard-gestell/static/css/main.954b8742.chunk.css",
-    "main.js": "/dashboard-gestell/static/js/main.718494bf.chunk.js",
-    "main.js.map": "/dashboard-gestell/static/js/main.718494bf.chunk.js.map",
+    "main.js": "/dashboard-gestell/static/js/main.82f008b1.chunk.js",
+    "main.js.map": "/dashboard-gestell/static/js/main.82f008b1.chunk.js.map",
     "runtime-main.js": "/dashboard-gestell/static/js/runtime-main.1cfb66e2.js",
     "runtime-main.js.map": "/dashboard-gestell/static/js/runtime-main.1cfb66e2.js.map",
     "xlsx.js": "/dashboard-gestell/static/js/xlsx.f231d4a7.chunk.js",
     "xlsx.js.map": "/dashboard-gestell/static/js/xlsx.f231d4a7.chunk.js.map",
     "static/css/3.af3c1da9.chunk.css": "/dashboard-gestell/static/css/3.af3c1da9.chunk.css",
-    "static/js/3.a5e33958.chunk.js": "/dashboard-gestell/static/js/3.a5e33958.chunk.js",
-    "static/js/3.a5e33958.chunk.js.map": "/dashboard-gestell/static/js/3.a5e33958.chunk.js.map",
+    "static/js/3.ac9641f5.chunk.js": "/dashboard-gestell/static/js/3.ac9641f5.chunk.js",
+    "static/js/3.ac9641f5.chunk.js.map": "/dashboard-gestell/static/js/3.ac9641f5.chunk.js.map",
     "static/js/4.6b45cea5.chunk.js": "/dashboard-gestell/static/js/4.6b45cea5.chunk.js",
     "static/js/4.6b45cea5.chunk.js.map": "/dashboard-gestell/static/js/4.6b45cea5.chunk.js.map",
     "static/js/5.84f2eb31.chunk.js": "/dashboard-gestell/static/js/5.84f2eb31.chunk.js",
@@ -17,11 +17,11 @@
     "static/js/6.f49f1770.chunk.js": "/dashboard-gestell/static/js/6.f49f1770.chunk.js",
     "static/js/6.f49f1770.chunk.js.map": "/dashboard-gestell/static/js/6.f49f1770.chunk.js.map",
     "index.html": "/dashboard-gestell/index.html",
-    "precache-manifest.c2e0cfd6739ca9d8b8d7a17fb990c418.js": "/dashboard-gestell/precache-manifest.c2e0cfd6739ca9d8b8d7a17fb990c418.js",
+    "precache-manifest.7336ae16773aa406910c738d7c9cd448.js": "/dashboard-gestell/precache-manifest.7336ae16773aa406910c738d7c9cd448.js",
     "service-worker.js": "/dashboard-gestell/service-worker.js",
     "static/css/3.af3c1da9.chunk.css.map": "/dashboard-gestell/static/css/3.af3c1da9.chunk.css.map",
     "static/css/main.954b8742.chunk.css.map": "/dashboard-gestell/static/css/main.954b8742.chunk.css.map",
-    "static/js/3.a5e33958.chunk.js.LICENSE.txt": "/dashboard-gestell/static/js/3.a5e33958.chunk.js.LICENSE.txt",
+    "static/js/3.ac9641f5.chunk.js.LICENSE.txt": "/dashboard-gestell/static/js/3.ac9641f5.chunk.js.LICENSE.txt",
     "static/js/5.84f2eb31.chunk.js.LICENSE.txt": "/dashboard-gestell/static/js/5.84f2eb31.chunk.js.LICENSE.txt",
     "static/js/6.f49f1770.chunk.js.LICENSE.txt": "/dashboard-gestell/static/js/6.f49f1770.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/dashboard-gestell/static/media/logo.99b2f8b1.svg"
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.1cfb66e2.js",
     "static/css/3.af3c1da9.chunk.css",
-    "static/js/3.a5e33958.chunk.js",
+    "static/js/3.ac9641f5.chunk.js",
     "static/css/main.954b8742.chunk.css",
-    "static/js/main.718494bf.chunk.js"
+    "static/js/main.82f008b1.chunk.js"
   ]
 }
