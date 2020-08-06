@@ -2,7 +2,7 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://31.220.62.12/gestell/g20/",
+  "homepage": "http://31.220.62.12/gestell/juridicos/",
   "dependencies": {
     "@amcharts/amcharts4": "^4.9.30",
     "@amcharts/amcharts4-geodata": "^4.1.16",
