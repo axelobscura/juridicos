@@ -11,11 +11,8 @@ function MenuLateral() {
                 <li>
                     <h3>SECCIÓN I</h3>
                     <ul>
-                        <li><Link to="/"><b>Reporte 1</b><br />Validación de Estructura del Reporte</Link></li>
-                        <li><Link to="/seccion-uno-reporte-dos"><b>Reporte 2</b><br />Validación de Etiquetas</Link></li>
-                        <li><Link to="/seccion-uno-reporte-tres"><b>Reporte 3</b><br />Errores en CURP / RFC</Link></li>
-                        <li><Link to="/seccion-uno-reporte-cuatro"><b>Reporte 4</b><br />Etiquetas relacionadas y reglas especiales</Link></li>
-                        <li><Link to="/seccion-uno-reporte-cinco"><b>Reporte 5</b><br />Visualizador de etiquetas y registros</Link></li>
+                        <li><Link to="/"><b>Reporte 1</b><br />Análisis de calidad de datos documento individual</Link></li>
+                        <li><Link to="/seccion-uno-reporte-dos"><b>Reporte 2</b><br />Análisis de calidad de datos documentos en batch</Link></li>
                     </ul>
                 </li>
 

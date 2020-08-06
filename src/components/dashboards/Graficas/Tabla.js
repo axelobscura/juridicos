@@ -13,48 +13,20 @@ function Tabla() {
                         <Table striped bordered hover>
                             <thead>
                                 <tr>
-                                    <th>Número de registro</th>
-                                    <th>Número de errores</th>
-                                    <th>Etiquets erróneas</th>
-                                    <th>Mensaje del error</th>
+                                    <th>Nombre del Archivo</th>
+                                    <th>Dimensiones pixeles por pulgada</th>
+                                    <th>Evaluación de acuerdo a la NOM Paso o No Pasa según NOM</th>
+                                    <th>Calidad según modelo</th>
+                                    <th>Número de páginas analizadas</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>MT 001</td>
-                                    <td>4</td>
-                                    <td>blc_aba</td>
-                                    <td>Campo no es alfanumérico</td>
-                                </tr>
-                                <tr>
-                                    <td>MT 001</td>
-                                    <td>4</td>
-                                    <td>blc_aba</td>
-                                    <td>Campo no es alfanumérico</td>
-                                </tr>
-                                <tr>
-                                    <td>MT 001</td>
-                                    <td>4</td>
-                                    <td>blc_aba</td>
-                                    <td>Campo no es alfanumérico</td>
-                                </tr>
-                                <tr>
-                                    <td>MT 001</td>
-                                    <td>4</td>
-                                    <td>blc_aba</td>
-                                    <td>Campo no es alfanumérico</td>
-                                </tr>
-                                <tr>
-                                    <td>MT 001</td>
-                                    <td>4</td>
-                                    <td>blc_aba</td>
-                                    <td>Campo no es alfanumérico</td>
-                                </tr>
-                                <tr>
-                                    <td>MT 001</td>
-                                    <td>4</td>
-                                    <td>blc_aba</td>
-                                    <td>Campo no es alfanumérico</td>
+                                    <td><b>Grupo.pdf</b></td>
+                                    <td><b>200x200</b></td>
+                                    <td><b>Pasa</b></td>
+                                    <td><b>Buena</b></td>
+                                    <td><b>62</b></td>
                                 </tr>
                             </tbody>
                         </Table>
