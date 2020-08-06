@@ -67,7 +67,7 @@ class RadialLine extends Component {
 
     render() {
         return (
-            <div id="chartdivRadialLine" style={{ width: "100%", height: "450px" }}></div>
+            <div id="chartdivRadialLine" style={{ width: "100%", height: "470px" }}></div>
         );
     }
 }

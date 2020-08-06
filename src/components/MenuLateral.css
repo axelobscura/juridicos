@@ -32,6 +32,23 @@
     background: #f2f2f2;
 }
 
+.MenuLateral li {
+    border-bottom: 1px solid #333;
+}
+
+.MenuLateral li a {
+    color: #222222;
+    padding: 10px;
+    display: block;
+    transition: all 1s;
+}
+
+.MenuLateral li a:hover {
+    text-decoration: none;
+    background: #111111;
+    color: #ffffff;
+}
+
 .MenuLateral li:hover ul {
     display: block;
 }

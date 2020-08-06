@@ -28,6 +28,20 @@ function Tabla() {
                                     <td><b>Buena</b></td>
                                     <td><b>62</b></td>
                                 </tr>
+                                <tr>
+                                    <td><b>Grupo.pdf</b></td>
+                                    <td><b>200x200</b></td>
+                                    <td><b>Pasa</b></td>
+                                    <td><b>Buena</b></td>
+                                    <td><b>62</b></td>
+                                </tr>
+                                <tr>
+                                    <td><b>Grupo.pdf</b></td>
+                                    <td><b>200x200</b></td>
+                                    <td><b>Pasa</b></td>
+                                    <td><b>Buena</b></td>
+                                    <td><b>62</b></td>
+                                </tr>
                             </tbody>
                         </Table>
                     </Col>
