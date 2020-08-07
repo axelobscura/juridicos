@@ -13,7 +13,7 @@ import Tabla from './Graficas/Tabla';
 function Seccion1Reporte2() {
     return (
         <>
-            <Titulo texto="REPORTE 2 - Análisis de calidad de datos documentos en batch" />
+            <Titulo texto="REPORTE 2 - Análisis de calidad de datos documentos en batch." />
             <Container fluid={true}>
                 <Row>
                     <Col>
